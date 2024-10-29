@@ -37,35 +37,39 @@
 - **Responsive Design with Tailwind**: Customizing layouts for different devices.
 - **Animations and Transitions**: Creating smooth user interactions.
 
-## 7. Three.js
-
-- **Basics of 3D**: Introduction to Three.js and WebGL.
-- **Creating Scenes**: Setting up a basic 3D scene with geometry, lights, and materials.
-- **Animations and Interactivity**: Making objects move and respond to user input.
-
-## 8. React
+## 7. React
 
 - **React Basics**: Components, props, and state.
 - **React Hooks**: State management and side effects.
 - **Routing**: Single-page application navigation with React Router.
 
-## 9. Node.js
+## 8. Node.js
 
 - **Introduction to Node.js**: Understanding server-side JavaScript.
 - **File System (fs) Module**: Interacting with files and directories.
 - **Working with Packages**: Using npm to manage dependencies.
 
-## 10. Express.js
+## 9. Express.js
 
 - **Express Fundamentals**: Setting up a server and defining routes.
 - **Middleware**: Enhancing request and response handling.
 - **RESTful APIs**: Building and structuring REST APIs.
 
-## 11. MongoDB
+## 10. MongoDB
 
 - **NoSQL Databases**: MongoDB as a document-based database.
 - **CRUD Operations**: Basic Create, Read, Update, Delete operations.
 - **Mongoose**: Using Mongoose to interact with MongoDB.
+
+---
+
+# Bonus Concepts
+
+## 1. Three.js
+
+- **Basics of 3D**: Introduction to Three.js and WebGL.
+- **Creating Scenes**: Setting up a basic 3D scene with geometry, lights, and materials.
+- **Animations and Interactivity**: Making objects move and respond to user input.
 
 ---
 
