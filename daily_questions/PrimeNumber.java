@@ -1,5 +1,5 @@
 package daily_questions;
-
+// this is a code
 import java.util.Scanner;
 
 public class PrimeNumber {
